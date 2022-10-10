@@ -1,0 +1,38 @@
+p {
+    margin: 0 0 10px;
+    color: #7a7676;
+    line-height: 20px;
+    font-size: 14px;
+}
+h2{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    line-height: 1.1;
+    color: #7a7676;
+    width: 100%;
+}
+.logo{
+    text-align: center; 
+}
+.logo img{
+    width: 90%;
+    max-width: 470px;
+}
+.container{
+      margin: 0 auto;
+      width: 90%;
+      background: #fff;
+      padding: 50px 0 50px 0;    
+}
+.informacoes{
+    width: 90%;
+    text-align: center;
+    margin-left: 30px;
+}
+.informativos{
+    width: 90%;
+    text-align: center;
+    margin-left: 30px;
+}
